@@ -6,6 +6,6 @@ function checkPassword() {
     if (password === correctPassword) {
         window.location.href = 'secret.html'; // Redirect to the new page
     } else {
-        error.textContent = 'Incorrect password. Please try again. What's your first name Senorita?';
+        error.textContent = 'Incorrect password. Please try again. What is your first name Senorita?';
     }
 }
