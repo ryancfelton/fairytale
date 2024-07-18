@@ -44,8 +44,7 @@ h1, h2 {
 
 @media (max-width: 768px) {
     .wrapped-image {
-        float: none;
-        margin: 0;
-        max-width: 100%; /* Adjust as needed */
+        float: none; /* Remove float for mobile */
+        margin: 0 auto 15px auto; /* Center and adjust margins */
     }
 }
