@@ -45,11 +45,10 @@ button:hover {
     margin-top: 10px;
 }
 
-
 .wrapped-image {
     float: left;
     margin: 0 15px 15px 0;
-    max-width: 200px; /* Adjust the size as needed */
+    max-width: 100px; /* Adjust the size as needed */
     width: 50%;
     height: auto;
     border-radius: 8px;
